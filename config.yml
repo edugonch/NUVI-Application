@@ -1,0 +1,8 @@
+reports:
+  url: 'http://feed.omgili.com/5Rh5AMTrc4Pv/mainstream/posts/'
+redis:
+  host: '127.0.0.1'
+  port: 6379
+  db: 1
+  list: 'NEWS_XML'
+  list_procesed_files: 'NEWS_FILES'
